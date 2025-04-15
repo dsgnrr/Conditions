@@ -70,7 +70,7 @@ int main() {
 		cout << "Íå ìàº àëãîğèòìó ä³é íà öş ñèòóàö³ş" << endl;
 	}
 	}
-
+	// Create enums
 	enum UserRole {
 		ADMIN,//0
 		MODER,//1
