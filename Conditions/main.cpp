@@ -3,6 +3,19 @@
 using namespace std;
 
 int main() {
+
+	{
+		// Task1
+		//code 
+	}
+
+	{
+		// Task2
+		//code 
+	}
+	
+	int var1 = 1;
+	int var1 = 1;
 	setlocale(LC_ALL, "uk-ua");
 	cout << boolalpha; // дає можливість виводити значення true false
 	// > < == >= <=
